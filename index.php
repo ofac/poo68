@@ -16,86 +16,81 @@
                        gap-5
                        bg-black/60
                        rounded-t-md">
-            <a href="index.html">
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 text-yellow-200 hover:-translate-x-2 transition-all">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M11.25 9l-3 3m0 0l3 3m-3-3h7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
-            </a>
             <h1 class="text-2xl text-white/80">Main Menu (OOP)</h1>
         </header>
         <section class="p-5 my-2 overflow-y-auto h-[524px]">
             <nav class="flex flex-col gap-2 justify-center items-center">
-                <a href=""  class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="01-class.php"  class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    01 Example
+                    01 - Class
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    02 Example
+                    02 - Construct
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    03 Example
+                    03 - Private
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    04 Example
+                    04 - Collaboration
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    05 Example
+                    05 - Parameters
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    06 Example
+                    06 - Extends
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    07 Example
+                    07 - Overwrite Method
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    08 Example
+                    08 - Overwrite Construct
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    09 Example
+                    09 - Class Abstract
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    10 Example
+                    10 - Method Abstract
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    11 Example
+                    11 - Class Final
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
-                    12 Example
+                    12 - Method Final
                 </a>
             </nav>
         </section>
